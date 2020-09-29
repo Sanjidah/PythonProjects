@@ -1,0 +1,9 @@
+#Sanjidah Abdullah
+#sabdull002@citymail.cuny.edu
+#Shell script:  creates directories for project
+
+mkdir projectFiles
+cd projectFiles
+mkdir images
+mkdir files
+mkdir results

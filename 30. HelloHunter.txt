@@ -1,0 +1,5 @@
+#!/bin/bash
+#Sanjidah Abdullah
+#sabdull002@citymail.cuny.edu
+
+echo "Hello, Hunter College!!!"

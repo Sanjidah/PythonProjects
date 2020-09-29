@@ -1,0 +1,9 @@
+#Sanjidah Abdullah
+#sabdull002@citymail.cuny.edu
+
+#24: Write a logical expression that is equivalent to the Exclusive OR gate on 2 inputs, #called in1, in2:
+
+#If either one or the other (but not both) input is True, then your expression should #evaluate to True.
+#Otherwise (both inputs are True or both inputs are False), then your expression should #evaluate to False.
+
+out = (not in1 and in2) or (in1 and not in2)
